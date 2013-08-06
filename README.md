@@ -5,13 +5,23 @@ A mechanism that admits continuous free rotation between a fixed platform and a 
 
 code and patterns
 ----------
-The code (*.m files) was last tested with GNU Octave. It should work on Matlab also with minor edits. There are templates for paper models in US Letter and A4 paper sizes. The svg files are scalable vector graphics files that can be opened with, for example, Inkscape.
+The code (*.m files) was last tested with GNU Octave. It should work on Matlab also with minor edits. The folder origami-rotors/patterns/ has templates for paper models in US Letter and A4 paper sizes. The svg files are scalable vector graphics files that can be opened with, for example, Inkscape.
 
 * crcdMakeRibbonMovie.m - Matlab/GNU Octave script creates a short animation of the backbone ribbon
 
 * crcdPlaybackFullChain.m - Matlab/GNU Octave script creates a short animation of the chain of tetrahedral links. At the octave prompt, you will need to call this script from the origami-rotors/code directory.
 
-* pdf and svg templates for making paper models of the tetrahedral chain are in origami-rotors/patterns/
+The animations run nice and quick in Matlab, but quite slowly and with poor lighting in GNU Octave. This may get fixed in the future.
+
+videos
+-------
+A few videos of the ribbon and chain mechanisms can be found at
+
+* http://youtu.be/gzq5gbF-QC8
+* http://youtu.be/ccKN-PoKFPo
+* http://youtu.be/AGZfrXsbrTg
+* http://youtu.be/dp4zxvpw5og
+
 
 Check out the paper!
 --------------------
