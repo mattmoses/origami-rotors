@@ -25,6 +25,6 @@ A few videos of the ribbon and chain mechanisms can be found at
 
 Check out the paper!
 --------------------
-If you use this in your work, please cite our paper:
+If you use this in your work, please cite [our paper](http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1830758):
 
 "Origami Rotors: Imparting Continuous Rotation to a Moving Platform Using Compliant Flexure Hinges", DETC2013-12753, by Matthew S. Moses, M. Kendal Ackerman, and Gregory S. Chirikjian. In Proceedings of the ASME 2013 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, IDETC/CIE 2013, August 4-August 7, 2013, Portland, OR, USA.
