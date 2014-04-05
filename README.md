@@ -1,4 +1,4 @@
-origami-rotors
+[origami-rotors](https://mattmoses.github.io/origami-rotors)
 ==============
 
 A mechanism that admits continuous free rotation between a fixed platform and a rotating body is described. The mechanism is a serial kinematic chain with several revolute joints. The end of the kinematic chain has free and unlimited rotational motion, equivalent to a standard mechanical pivot, but the travel of each individual joint in the chain is limited to less than +/- 70 degrees. The joints that compose the chain can thus be constructed using compliant flexure hinges. The entire mechanism can be folded from a single flat sheet of material, and is thus well suited for self-assembly by folding, which is an increasingly attractive technique for building micro-scale devices. Potential applications include rotating propellers for micro underwater or fluid-immersed (e.g. within a blood vessel) robots, and high-mobility wheel-legs for crawling vehicles.
